@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pasalkar</h1>
 <h3 align="center">Python & Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401720/screenshots/4913912/media/a421f400053616b61d2d7d9f7d2ef4ec.jpg?resize=768x576&vertical=center">
-- 👨‍💻 Portfolio Website at [...])
+- 👨‍💻 Portfolio Website at [https://vaibhavpersonal1.netlify.app/])
 
 - 💬 Ask me about **Data**
-- 📫 How to reach me **vaibhavpasalkar5871@gmail.com**
+- 📫 How to reach me **vpasalkar5871@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
